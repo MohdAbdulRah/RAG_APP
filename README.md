@@ -3,6 +3,8 @@
 RAG_APP is an intelligent **Retrieval-Augmented Generation (RAG)** system with a **Streamlit UI**, allowing users to input **web URLs** and ask **natural language questions**. It scrapes, embeds, and retrieves relevant information from the web pages, generating accurate, context-aware answers with **source links** using **Groq LLMs**.
 
 ---
+### Live Link :- https://ragapp-hqsvr5spy46a5gqdveq9x3.streamlit.app/
+---
 
 ##  Features
 
